@@ -78,8 +78,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     margin-right: 76px;
     
 }
-.logo .header-logo { 
-    color: #404bbf;
+
 }
 .logo-styles-headr{
     color: #2e2f42;
@@ -124,6 +123,8 @@ position: absolute;
         content: "";
 
 }
+.after{
+    color: #404bbf;}
 
 .nav-item-link:hover,
 .nav-item-link:active,
